@@ -1,0 +1,1 @@
+Just a small repository to check how to input a vector (w numbers) :smile:
